@@ -1,0 +1,2 @@
+ Your campuses are : LHR and FSD
+ your Prefrence are : CE , CS and EE
